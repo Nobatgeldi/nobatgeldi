@@ -15,4 +15,6 @@
 <a href="https://kaggle.com/nobatgeldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nobatgeldi" height="30" width="40" /></a>
 <a href="https://fb.com/nobatgeldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nobatgeldi" height="30" width="40" /></a>
 <a href="https://instagram.com/nobatgeldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nobatgeldi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/nobatgeldimammedow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nobatgeldimammedow" height="30" width="40" /></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nobatgeldi&label=Profile%20views&color=0e75b6&style=flat" alt="nobatgeldi" /> </p>
 </p>

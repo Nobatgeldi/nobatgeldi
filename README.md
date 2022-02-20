@@ -1,4 +1,5 @@
 <img align="center" src="https://github.com/Nobatgeldi/nobatgeldi/blob/main/header_nobatgeldi.png" alt="nobatgeldi" />
+<br>
 <h2 align="center">
 Languages and Tools:</h3>
 <p align="center">
@@ -86,8 +87,9 @@ Languages and Tools:</h3>
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" />
   </a>
 </p>
+<br>
 <h2 align="center">
-GitHub Analytics</h1>
+GitHub Analytics</h2>
 <p align="center">
    <a href="https://github.com/nobatgeldi">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nobatgeldi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -95,6 +97,9 @@ GitHub Analytics</h1>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nobatgeldi&theme=algolia" alt="nobatgeldi" />
    </a>
 </p>
+<br>
+<h2 align="center">
+Social Accounts</h2>
 <p align="center">
    <a href="https://twitter.com/nobatgeldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nobatgeldi" height="30" width="40" /></a>
    <a href="https://linkedin.com/in/nobatgeldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nobatgeldi" height="30" width="40" /></a>

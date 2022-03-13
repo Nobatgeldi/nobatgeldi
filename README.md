@@ -88,6 +88,7 @@
    <a href="https://github.com/nobatgeldi">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nobatgeldi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nobatgeldi&layout=compact&hide=Groff,Tex,tcl,html&langs_count=32&theme=algolia"/>
+	 <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nobatgeldi&theme=algolia"/>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nobatgeldi&theme=algolia" alt="nobatgeldi" />
    </a>
 </p>

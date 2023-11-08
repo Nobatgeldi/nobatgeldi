@@ -69,8 +69,6 @@
 <h3 align="center">Statistics</h3>
 <div align="center">
   <a href="https://github.com/Nobatgeldi">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nobatgeldi&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nobatgeldi&theme=2077" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nobatgeldi&theme=2077" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nobatgeldi&theme=2077" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nobatgeldi&theme=2077" height="180em" />

@@ -1,3 +1,4 @@
+<img align="center" src="./header_nobatgeldi.png" alt="nobatgeldi" />
 <h1 align="center">Hi 👋, I'm Nobatgeldi</h1>
 <h3 align="center">Co-Founder/Technical Project Manager at 
 <a href="https://github.com/COVISART" target="_blank">@COVISART</a>
@@ -8,7 +9,7 @@
 - 📄 Know about my experiences **<https://www.linkedin.com/in/nobatgeldi/>**
 
 <div align="center" >
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p></p>
 </dev>
 <div align="center">
   <a href = "https://stackoverflow.com/users/6236842/nobi"><img src="https://img.shields.io/badge/-stackoverflow-%23333?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
@@ -19,7 +20,6 @@
   <a href="https://instagram.com/Nobatgeldi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 <div align="center" >
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </dev>
 <h3 align="center">Used Languages and Tools:</h3>
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p></p>
 </dev>
 <div align="center">
   <a href="https://github.com/Nobatgeldi">
